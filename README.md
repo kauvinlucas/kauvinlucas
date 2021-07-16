@@ -1,5 +1,6 @@
-### Hi👋
-#### I'm a Financial Engineer and an AI enthusiast currently spending time on some AI projects
+### Hola👋
+#### Soy un Ingeniero Financiero actualmente refinando mis habilidades analíticas y profesionales con algunos proyectos prácticos de inteligencia artificial y analítica de datos.
+#### I'm a Financial Engineer and an AI enthusiast currently spending time on some AI projects.
 
 
 Repository list by topic:
