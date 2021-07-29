@@ -1,7 +1,4 @@
-### Hola👋
-#### Soy un Ingeniero Financiero actualmente refinando mis habilidades analíticas y profesionales con algunos proyectos prácticos de inteligencia artificial y analítica de datos.
-#### I'm a Financial Engineer and an AI enthusiast currently spending time on some AI projects.
-
+### Hi 👋
 
 Repository list by topic:
 
@@ -10,6 +7,3 @@ Repository list by topic:
 
 #### - Supervised Machine Learning
    * [Predicting Car Accident Severity](https://github.com/kauvinlucas/Predicting_car_accident_severity)
-
-#### Other Websites:
-[![Kaggle](https://raw.githubusercontent.com/kauvinlucas/kauvinlucas/main/Images/KaggleBadge.png)](https://www.kaggle.com/kauvinlucas)   [![Hackerrank](https://raw.githubusercontent.com/kauvinlucas/kauvinlucas/main/Images/HackerRankBadge.png)](https://www.hackerrank.com/kauvinlucas)   [![LinkedIn](https://raw.githubusercontent.com/kauvinlucas/kauvinlucas/main/Images/LinkedinBadge.png)](https://www.linkedin.com/in/kauvinlucas)
