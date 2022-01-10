@@ -12,4 +12,4 @@ Repository list by topic:
 #### Course Notes & Other Useful Material
    * [Big Data - Science notes](https://github.com/kauvinlucas/big-data-science-notes)
 
-![footer](https://github.com/kauvinlucas/kauvinlucas/blob/main/assets/header.png?raw=true)
+![footer](https://github.com/kauvinlucas/kauvinlucas/blob/main/assets/footer.png?raw=true)
