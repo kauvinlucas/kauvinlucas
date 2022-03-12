@@ -9,14 +9,14 @@ Repository list by topic:
 #### - Supervised Machine Learning
 * [Predicting Car Accident Severity](https://github.com/kauvinlucas/Predicting_car_accident_severity)
 
-#### Data Engineering
+#### - Data Engineering
 * [Running a Spark on Kubernetes application](https://github.com/kauvinlucas/spark-kubernetes)
 * [Pyspark stateful processing with twitter API and Apache Kafka](https://github.com/kauvinlucas/pyspark-stateful-processing-with-twitter-kafka)
 
-#### Course Notes & Other Useful Material
+#### - Course Notes & Other Useful Material
 * [Big Data - Science notes](https://github.com/kauvinlucas/big-data-science-notes)
 
-#### Contributions
+#### - Contributions
 * [Spark Study Club (Data Engineering LATAM)](https://github.com/kauvinlucas/Spark-StudyClub)
 
-I'm showcasing my projects and contributions [in this website](https://kauvinlucas.com).
+#### I'm showcasing my projects and contributions [in this website](https://kauvinlucas.com).
