@@ -28,5 +28,4 @@
 - **Contributions**
     - [Spark Study Club (Data Engineering LATAM)](https://github.com/kauvinlucas/Spark-StudyClub)
 
---
-#### I'm showcasing my projects and contributions [in this website](https://kauvinlucas.com).
+
