@@ -4,7 +4,7 @@
 ### Repository list by topic:
 
 - **ML cloud platforms**
-    - [Optimizing a Pipeline in Azure](https://github.com/kauvinlucas/Optimizing-a-Pipeline-in-Azure)
+    - [Optimizing a Machine Learning Pipeline in Azure](https://github.com/kauvinlucas/Optimizing-a-Pipeline-in-Azure)
 
 --
 
@@ -15,6 +15,7 @@
 --
 
 - **Data Engineering**
+    - [ENEM 2019 data analysis with PySpark](https://github.com/kauvinlucas/jupyter-spark-enem-2019)
     - [Running a Spark on Kubernetes application](https://github.com/kauvinlucas/spark-kubernetes)
     - [Pyspark stateful processing with Twitter API and Apache Kafka](https://github.com/kauvinlucas/pyspark-stateful-processing-with-twitter-kafka)
 
