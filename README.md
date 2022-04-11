@@ -30,3 +30,4 @@
     - [Spark Study Club (Data Engineering LATAM)](https://github.com/kauvinlucas/Spark-StudyClub)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kauvinlucas&show_icons=true&theme=merko)  
